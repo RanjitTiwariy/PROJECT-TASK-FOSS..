@@ -1,3 +1,2 @@
 # PROJECT-TASK-FOSS..
-FREE AND OPEN SOURCE SOFTWARE FOUNDATION ............
-technology
+
